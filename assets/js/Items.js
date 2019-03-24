@@ -1,6 +1,6 @@
 //class Items
 class Items{
-    constructor(title, nick, bg, linking){
+    constructor(title=" ", nick= "", bg= " ", linking=" "){
         this.name = title;
         this.background = bg;
         this.link = linking;

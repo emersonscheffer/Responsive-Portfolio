@@ -1,0 +1,16 @@
+
+/* border radius */   /* border radius */  /* border radius */
+.brad-10{
+    border-radius: 10px;
+}
+.brad-20{
+    border-radius: 20px;
+}
+
+.panel {
+    width: 90%;
+    border-radius: 15px;
+    padding: 15px;
+    border: solid 1px #000000;
+	margin: 0 auto;
+}
